@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/menu.png</file>
+        <file>image/icon.png</file>
+        <file>image/claude.png</file>
+        <file>image/gemini.png</file>
+        <file>image/gpt.png</file>
+        <file>image/tongyi.png</file>
+        <file>image/wenxin.png</file>
+        <file>image/glm.png</file>
+        <file>image/huggingface.png</file>
+        <file>image/xinhuo.png</file>
+        <file>image/github.png</file>
+        <file>image/elec.png</file>
+    </qresource>
+</RCC>
